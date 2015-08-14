@@ -12,6 +12,7 @@
     ]
   }],
   "type": "certified",
+  "package_path": "package.zip",
   "role": "addon",
   "icons": {
     "84": "/icons/clock_84.png",
