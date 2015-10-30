@@ -1,19 +1,8 @@
 {
   "name": "Live Clock Icon",
   "description": "Add-on for animating the Clock icon on the homescreen",
-  "developer": {
-    "name": "Justin D'Arcangelo",
-    "url": "https://github.com/justindarc"
-  },
-  "customizations": [{
-    "filter": "verticalhome.gaiamobile.org",
-    "scripts": [
-      "main.js"
-    ]
-  }],
-  "type": "certified",
+  "developer": { "name": "Justin D'Arcangelo" },
   "package_path": "package.zip",
-  "role": "addon",
   "icons": {
     "84": "/icons/clock_84.png",
     "126": "/icons/clock_126.png",
